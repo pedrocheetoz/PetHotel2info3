@@ -8,7 +8,7 @@ import { RouterLink } from 'vue-router';
       <RouterLink
         class="nav-link"
         active-class="active"
-        to="/pets"
+        to="/"
       >
         <i
           class="bi bi-heart me-2"

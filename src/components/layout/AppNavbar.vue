@@ -10,7 +10,7 @@ import { RouterLink } from 'vue-router';
     <div class="container-fluid">
       <RouterLink
         class="navbar-brand fw-semibold"
-        to="/pets"
+        to="/"
       >
         <i
           class="bi bi-heart-fill me-2"
@@ -38,7 +38,7 @@ import { RouterLink } from 'vue-router';
         <div class="navbar-nav ms-auto">
           <RouterLink
             class="nav-link"
-            to="/pets"
+            to="/"
             >Pets</RouterLink
           >
           <RouterLink
